@@ -1,8 +1,8 @@
 # FaceAnimationVR
 
 A Sketch-based Interface for FacialAnimation in Immersive Virtual Reality
+
 ![teaser-image](https://github.com/lab2atpolito/FaceAnimationVR/blob/main/images/teaser.png)
-A novel interface that combines the advantages offered by sketch-based interaction and Virtual Reality for the production of facial animations.
 
 How to use:
 1. Launch SteamVR

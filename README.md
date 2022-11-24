@@ -1,6 +1,6 @@
 # FaceAnimationVR
 
-A Sketch-based Interface for FacialAnimation in Immersive Virtual Reality
+A Sketch-based Interface for Facial Animation in Immersive Virtual Reality
 
 ![teaser-image](https://github.com/lab2atpolito/FaceAnimationVR/blob/main/images/teaser.png)
 
